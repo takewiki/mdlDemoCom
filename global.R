@@ -8,7 +8,7 @@ module_id ='mdlDemoCom'
 
 #模块名称
 #实际程序时不需要修改
-module_name ='数据中台模块演示'
+module_name ='模块演示'
 
 #获取数据中台数据库连接的token,演示数据为py_test
 dms_token ='75CE5B94-38F1-40F6-9B7B-9B4170C8E5F6'

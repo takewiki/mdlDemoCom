@@ -10,7 +10,8 @@ tabItem(tabName = "mdlDemoCom",
                                     #begin----
                                     #uiComponent seperated by comma (,)
                                      mdlDemoUI::buttonUI(),
-                                     mdlDemoUI::textUI()
+                                     mdlDemoUI::textUI(),
+                                     mdlDemoUI::dateUI()
                                     
                                     
                                     #end----
